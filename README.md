@@ -37,4 +37,19 @@ Step 5: npm start
 <br>
 Step 6: run http://localhost:3000/ in browser
 <br>
+ ![image](https://github.com/sathees-saty/react-jobportal/assets/65384711/4d1f1fd8-e351-4380-b607-92c7af9d9e33)
+ <br>
+![image](https://github.com/sathees-saty/react-jobportal/assets/65384711/ea336858-697f-4cd8-a529-7ba02a760bed)
+ <br>
+![image](https://github.com/sathees-saty/react-jobportal/assets/65384711/7454595b-968b-489c-8fff-bb2549affa7d)
+
+ <br>
+![image](https://github.com/sathees-saty/react-jobportal/assets/65384711/fa32346d-8125-470d-bf7f-243dcf143cf1)
+
+<br>
+![image](https://github.com/sathees-saty/react-jobportal/assets/65384711/d2231806-0a82-45fe-8989-0e00c7f7ae8d)
+
+<br>
+
+  
 <html>
